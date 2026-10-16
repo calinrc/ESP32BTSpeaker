@@ -2,7 +2,7 @@
 Bluetooth Speaker Using ESP32 and MAX98357A Modules
 
 ## Description
-Simple circuit to make an old vacuum tubes radion working again as a cluetooth speaker
+Simple circuit to make an old vacuum tubes radion working again as a bluetooth speaker
 
 ## Components
 
