@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../work/github.com/calinrc/esp32bluetoothspaker"
+		},
+		{
+			"name": "ESP32BTSpeaker",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
