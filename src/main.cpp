@@ -4,9 +4,9 @@
 #include "BluetoothA2DPSink.h"
 
 
-#define I2S_LRC 33
-#define I2S_BCLK 32
-#define I2S_DIN 26
+#define I2S_LRC 25
+#define I2S_BCLK 33
+#define I2S_DIN 32
 
 // #define I2S_LRC 14
 // #define I2S_BCLK 27

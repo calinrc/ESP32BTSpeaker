@@ -23,7 +23,7 @@ Simple circuit to make an old vacuum tubes radion working again as a bluetooth s
 
 |ESP32|MAX98357A|USB UART CP2102|HW-131 Power Supply 3.3V |Speaker|Comments|
 |--|--|--|--|--|--|
-|Pin 26|DIN|||||
+|Pin 25|DIN|||||
 |Pin 33|LRC|||||
 |Pin 32|BCLK|||||
 |GND|||➖|||
